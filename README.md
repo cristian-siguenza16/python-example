@@ -1,2 +1,2 @@
-# python-example
- programa en python para reforzar el uso de Git
+# Ejemplo de programa en python
+ programa en **python** para reforzar el uso de **Git**
